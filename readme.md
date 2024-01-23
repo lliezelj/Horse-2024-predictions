@@ -1,4 +1,4 @@
-# Horse-2024-prectictions 
+# Horse-2024-predictions 
 
 
 #### Horse
@@ -6,9 +6,9 @@
 ! [img] (https://cdn.i-scmp.com/sites/default/files/d8/images/canvas/2024/01/11/bb183531-c16f-4eaf-86a6-181b34189bfc_ba7066a9.jpg)
 
 
--_ *Lucky_numbers: ** 3, 8;
--_ *Lucky color: ** light green; 
--_ *Lucky element: ** emerald; 
+-_ **Lucky numbers:** 3, 8;
+-_ **Lucky color:** light green; 
+-_ **Lucky element:** emerald; 
 
 This will be a good year for Horses to expand their horizons, so they should consider attending seminars or furthering their education.
 
